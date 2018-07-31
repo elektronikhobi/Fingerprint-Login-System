@@ -6,5 +6,5 @@ Parmak İzi Okuyucu: https://www.banggood.com/Fingerprint-Recognition-Module-For
 Arduino: Uno, Nano, Pro Mini vs.. ile sorunsuz programlayabilirsiniz.. 
 
 İletişim için:
-instagram.com/elektronikhobi/
+https://www.instagram.com/elektronikhobi/
 elektronikhobi@outlook.com
